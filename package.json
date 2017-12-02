@@ -1,0 +1,7 @@
+{
+  "name": "PortfolioApi",
+  "version": "1.0.0",
+  "description": "Express Api",
+  "main": "index.js",
+  "license": "MIT"
+}
